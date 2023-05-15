@@ -37,11 +37,11 @@ async def is_admins(chat_id: int):
 
 
 EMOJIOS = [ 
-      "═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══",
+      "═══❰𝕙𝕖𝕝𝕝𝕠 𝕓𝕒𝕓𝕪 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕚𝕞 𝕞𝕪 𝕡𝕞❱═══",
 ]
       
 START = f"""
-**๏ Hie Baby🐒 ๏**
+**๏ 𝕙𝕖𝕝𝕝𝕠 𝕛𝕒𝕟𝕦🐒 ๏**
 """
 
 @bot.on_message(filters.command(["start", "aistart", f"start@{BOT_USERNAME}"]))
