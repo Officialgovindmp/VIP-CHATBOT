@@ -36,8 +36,8 @@ async def is_admins(chat_id: int):
     ]
 
 
-EMOJIOS = [ 
-      "═══❰𝕙𝕖𝕝𝕝𝕠 𝕓𝕒𝕓𝕪 𝕨𝕖𝕝𝕔𝕠𝕞𝕖 𝕚𝕞 𝕞𝕪 𝕡𝕞❱═══",
+EMOJIOS = [ 💋 
+      "═══❰𝗛𝗘𝗟𝗟𝗢 𝗝𝗔𝗔𝗡𝗨 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗜𝗖𝗖 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧❱═══",
 ]
       
 START = f"""
@@ -60,9 +60,9 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ https://t.me/shayari_ka_tadka\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @shayari_ka_tadka\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ https://t.me/shayari_ka_tadka\n║\n║➣ https://t.me/shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ https://t.me/shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
@@ -336,5 +336,5 @@ async def vickprivatesticker(client: Client, message: Message):
            if not Yo == "text":
                await message.reply_sticker(f"{hey}")
 
-print(f"🎄𝗩𝗜𝗣 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬🎄 ")      
+print(f"🎄𝗜𝗖𝗖 𝗚𝗢𝗩𝗜𝗡𝗗 𝗕𝗢𝗧 𝗜𝗦 𝗦𝗧𝗔𝗥𝗧𝗘𝗗 𝗚𝗢 𝗔𝗡𝗗 𝗘𝗡𝗝𝗢𝗬🎄 ")      
 bot.run()
