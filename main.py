@@ -62,7 +62,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @shayari_ka_tadka\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ https://t.me/shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @indian_chatting_club_offical\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
