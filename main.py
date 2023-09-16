@@ -18,7 +18,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME")
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
 BOT_NAME = os.environ.get("BOT_NAME")
 ADMINS = os.environ.get("ADMINS")
-IMAGE = os.envirom.get("https://te.legra.ph/file/8fd02538b8c8eae1b392d.jpg")
+
 bot = Client(
     "VickBot" ,
     api_id = API_ID,
