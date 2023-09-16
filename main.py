@@ -18,7 +18,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME")
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
 BOT_NAME = os.environ.get("BOT_NAME")
 ADMINS = os.environ.get("ADMINS")
-
+IMAGE = os.envirom.get("https://te.legra.ph/file/8fd02538b8c8eae1b392d.jpg")
 bot = Client(
     "VickBot" ,
     api_id = API_ID,
@@ -60,9 +60,9 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.2)
     await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP0\n║\n║➣\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @govind_music_office\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP0\n║\n║➣ @GOVIND_USERBOT_UPDATE\n║\n║➣\n║\n╚══════ஜ۩۞۩ஜ═════╝")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP42\n║\n║➣ @Princess_Ki_Family\n║\n║➣ @shayari_ka_tadka\n║\n╚══════ஜ۩۞۩ஜ═════╝")
+    await accha.edit("╔═══❰𝐖𝐄𝐋𝐂𝐎𝐌𝐄❱═══❍⊱❁۪۪\n║\n║➣ @GOVIND_OFFICIAL_MP0\n║\n║➣ @Princess_Ki_Family\n║\n║➣ @GOVIND_MP_USERBOT_SPPORT\n║\n╚══════ஜ۩۞۩ஜ═════╝")
      
 
 @bot.on_message(
